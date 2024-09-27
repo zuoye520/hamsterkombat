@@ -1,0 +1,49 @@
+{
+  "name": "ENULS Token List",
+  "timestamp": "2021-01-21T23:57:10.982Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+  "keywords": [
+    "enuls",
+    "token"
+  ],
+  "tokens": [
+    {
+      "name": "NULS",
+      "address": "0x888279a0df02189078e3E68fbD93D35183E1Fc69",
+      "symbol": "NULS",
+      "decimals": 18,
+      "chainId": 120,
+      "logoURI": "https://pheasantswap.com/images/native/119.png"
+    },
+    {
+      "chainId": 120,
+      "address": "0x37bD886E30aCD8Cd2F4Fac06D03C5942cDA3C666",
+      "name": "zUSDT",
+      "symbol": "zUSDT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12645/thumb/AAVE.png?1601374110"
+    },
+    {
+      "chainId": 120,
+      "address": "0xF5b293189F14818FCDbCe4dCCEE7ADE4DAC895ed",
+      "name": "PST",
+      "symbol": "PST",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12409/thumb/amp-200x200.png?1599625397"
+    },
+    {
+      "chainId": 120,
+      "address": "0x550aafd2796f7BbF08E1a800edbA296dCD7033D1",
+      "name": "ZZCOIN",
+      "symbol": "ZZCOIN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/9545/thumb/band-protocol.png?1568730326"
+    }
+  ]
+}
